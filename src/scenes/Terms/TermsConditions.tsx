@@ -43,7 +43,7 @@ const TermsConditions = () => {
           <p className="text-gray-700">For any questions, please contact us at:</p>
           <p className="text-gray-700 font-semibold">Gold's Gym Ganeshguri Box Gym</p>
           <p className="text-gray-700">Monal Tower, 5th floor G. S. Road, Opp Assam State Secretariat, Gauhati, Assam, India</p>
-          <p className="text-gray-700">Email: <strong>ganeshguri.guwahati@goldgym.in</strong></p>
+          <p className="text-gray-700">Email: <strong>ganeshguri.guwahati@goldsgym.in</strong></p>
           <p className="text-gray-700">Phone: <strong> 070860 45555</strong></p>
         </section>
         <Link to="/" className="text-primary-500 underline mt-4 inline-block">

@@ -70,7 +70,7 @@ const AboutUs = () => {
               <p><MapPin className="inline mr-2" /> Monal Tower, 5th floor G. S. Road, Opp Assam State Secretariat, Gauhati, Assam, India</p>
               <p><Phone className="inline mr-2" />  
               70860 45555</p>
-              <p><Mail className="inline mr-2" /> ganeshguri.guwahati@goldgym.in </p>
+              <p><Mail className="inline mr-2" /> ganeshguri.guwahati@goldsgym.in </p>
             </div>
           </motion.div>
 
